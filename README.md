@@ -1,9 +1,11 @@
-# LFG-Lore's CircleCI docker image based on [CircleCI's nodejs image](https://hub.docker.com/r/circleci/node/)
+# LFG-Lore's CircleCI docker image
+
+### Intro
+This image is based on [CircleCI's nodejs image](https://hub.docker.com/r/circleci/node/). Packages include
 - Node: 9.0.0
 - Python: 2.7.9
 - AWS CLI: 1.11.181
 
-----
 ### Build image
 ```
 git clone https://github.com/lfg-gaming/circleci-docker.git
