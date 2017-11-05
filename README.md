@@ -8,8 +8,8 @@ This image is based on [CircleCI's nodejs image](https://hub.docker.com/r/circle
 
 ### Build image
 ```
-git clone https://github.com/lfg-gaming/circleci-docker.git
-cd circleci-docker
+git clone https://github.com/lfg-gaming/circleci-node-awscli
+cd circleci-node-awscli
 docker build -t lfglore/circleci-node-awscli:latest .
 ```
 
