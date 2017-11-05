@@ -1,3 +1,5 @@
+[![Docker Automated build](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?style=flat-square)](https://hub.docker.com/r/lfglore/circleci-node-awscli/)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://github.com/lfg-gaming/circleci-node-awscli)
 # LFG-Lore's CircleCI docker image
 
 ### Intro
